@@ -30,6 +30,14 @@ Dwin is an opinionated database
 - Cars
 - Energy production / storage
 
+🏃‍♂️ Healt data
+
 ## Plugin ecosystem
 
 Plugins are what makes Dwin more than just a database.
+
+### Scheduled Events
+
+### Subscription Events
+
+### External Triggers
